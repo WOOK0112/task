@@ -17,7 +17,7 @@
 - API 개발 테스트툴 필수(ex. POSTMAN 등)
 - MySQL 필수
   - MYSQL에 board 이름으로 스키마 생성 팰수
-  - 환경변수로 MYSQL의 ID와 Ps를 등록 필수
+  - 환경변수로 MYSQL의 ID와 PS 등록 필수
 ![스크린샷 2023-08-16 231602](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/ebacde07-2b96-4ee0-a981-36d5bea81e5a)
 ![스크린샷 2023-08-16 231621](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/c6787d75-349c-43e6-88cc-be2b6cd4a835)
 
