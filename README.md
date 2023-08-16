@@ -16,6 +16,7 @@
 ---
 ## 🛢 데이터베이스 테이블 구조
 ![image](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/55953134-4710-48fb-871c-156cbd7c95c0)
+
 ------------
 ## 💼 API 동작 데모 영상
 <br/>
