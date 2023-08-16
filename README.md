@@ -87,7 +87,7 @@
   <tbody>
     <tr>
       <td>
-        <img style='width: 450px;' src='https://github.com/WOOK0112/wanted-pre-onboarding-backend/raw/main/assets/124886494/716370bb-47cb-4255-b36a-ea1c7d798092.gif' alt='게시글 삭제' />
+        <img style='width: 450px;' src='![게시글 삭제](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/716370bb-47cb-4255-b36a-ea1c7d798092)' alt='게시글 삭제' />
       </td>
     </tr>
   </tbody>
