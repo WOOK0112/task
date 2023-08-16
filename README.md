@@ -1,7 +1,7 @@
 # pre-onboarding 사전과제
 #### 📌 지원자: 김동욱
 #### 📌 개발언어: Java & Spring Boot
-#### 📌 API 명세서: https://potent-guardian-987.notion.site/API-e23b891c997c413180745c7322d82ab9?p=7b70e359808147fcb2b47ddcd224e29e&pm=s
+#### 📌 API 명세서: https://potent-guardian-987.notion.site/API-e23b891c997c413180745c7322d82ab9
 ---
 ## 💡 애플리케이션 실행 플로우
 1. IDE를 이용하여 애플리케이션을 실행
