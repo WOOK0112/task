@@ -20,19 +20,19 @@
 ------------
 
 ## 💼 API 동작 데모 영상
-- 회원가입
+#### 📌회원가입
 ![회원가입](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/92ce6141-7174-40bc-aaf4-d0f11402b359)
-- 로그인
+#### 📌로그인
 ![로그인](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/8f060c6f-04d9-4bc5-8397-ec7dd83fcc40)
-- 게시글 작성
+#### 📌게시글 작성
 ![게시글 작성](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/8d82f193-5464-4a7c-9f8d-4d5665417080)
-- 게시글 수정
+#### 📌게시글 수정
 ![게시글 수정](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/4551bfaf-ffa5-4bc3-8162-f0d103665044)
-- 게시글 삭제
+#### 📌게시글 삭제
 ![게시글 삭제](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/9192829f-3046-4ed4-99ed-08b8d0fd53c5)
-- 게시글 단일조회
+#### 📌게시글 단일조회
 ![게시글 단일조회](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/d4c574e8-d8ae-4932-a215-b317faa2264f)
-- 게시글 목록조회
+#### 📌게시글 목록조회
 ![게시글 목록조회](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/234d9787-266d-455e-9576-df9502808e52)
 
 ---
@@ -48,8 +48,7 @@
  - AccessToken과 RefreshToken을 사용하도록 설계하였으나, 현재 구현 단계에서 RefreshToken의 유효성은 없음, 추후 ResfreshToken도 사용하도록 인증 및 보안 기능을 보완할 예정
 #### JPA
  - '간단한 데이터베이스 조작', '객체 지향적 프로그래밍', '코드 간결성', '유지보수 용이성' 등의 장점이 있어 ORM으로 JPA를 활용하여 애플리케이션을 구현
-#### MYSQL
- - 
+ - 요구사항에서 RDBMS로 MYSQL을 사용할 것을 요구하였는데, 개발생산성 측면에서 JPA와의 긍정적 상호작용이 있을 것으로 기대
 #### 예외처리
  - 원활한 예외처리를 위해 @RestControllerAdvice 애너테이션을 활용하여 전역 예외처리 로직 모듈화
  - 커스텀 예외 및 특정 예외에 대한 핸들링, 예외가 발생했을 때 클라이언트와의 원활한 소통과 서버사이드에서의 빠른 피드백 등의 효과를 기대
