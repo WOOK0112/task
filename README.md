@@ -40,7 +40,7 @@
         <img style='width: 450px;' src='https://github.com/WOOK0112/wanted-pre-onboarding-backend/raw/main/assets/124886494/dbd4fc3c-aca5-4fa3-a815-c1d93490e195.gif' alt='회원가입' />
       </td>
       <td>
-        <img style='width: 800px;' src='https://github.com/WOOK0112/wanted-pre-onboarding-backend/raw/main/assets/124886494/24629616-450c-46b6-8a87-6456c6803652.gif' alt='로그인' />
+        <img style='width: 8000px;' src='https://github.com/WOOK0112/wanted-pre-onboarding-backend/raw/main/assets/124886494/24629616-450c-46b6-8a87-6456c6803652.gif' alt='로그인' />
       </td>
     </tr>
   </tbody>
