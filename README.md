@@ -19,10 +19,6 @@
 
 ------------
 
-![회원가입](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/dbd4fc3c-aca5-4fa3-a815-c1d93490e195)
-
-
-
 ## 💼 API 동작 데모 영상
 <br/>
 <table>
@@ -35,10 +31,10 @@
   <tbody>
     <tr>
       <td>
-        <img style='width: 450px;' src='![회원가입](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/dbd4fc3c-aca5-4fa3-a815-c1d93490e195)' alt='curation update/delete' />
+        <img style='width: 450px;' src='https://github.com/WOOK0112/wanted-pre-onboarding-backend/raw/main/assets/124886494/dbd4fc3c-aca5-4fa3-a815-c1d93490e195.gif' alt='회원가입' />
       </td>
       <td>
-        <img style='width: 450px;' src='![로그인](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/24629616-450c-46b6-8a87-6456c6803652)' alt='curation update/delete' />
+        <img style='width: 450px;' src='https://github.com/WOOK0112/wanted-pre-onboarding-backend/raw/main/assets/124886494/24629616-450c-46b6-8a87-6456c6803652.gif' alt='로그인' />
       </td>
     </tr>
   </tbody>
@@ -54,10 +50,10 @@
   <tbody>
     <tr>
       <td>
-        <img style='width: 450px;' src='![게시글 작성](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/a0bce35e-4553-4fdc-a055-49cc947a8c59)' alt='curation create' />
+        <img style='width: 450px;' src='https://github.com/WOOK0112/wanted-pre-onboarding-backend/raw/main/assets/124886494/a0bce35e-4553-4fdc-a055-49cc947a8c59.gif' alt='게시글 작성' />
       </td>
       <td>
-        <img style='width: 450px;' src='![게시글 수정](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/d1b892f0-4506-4d4c-bfe8-e64a21ad7df7)' alt='curation update/delete' />
+        <img style='width: 450px;' src='https://github.com/WOOK0112/wanted-pre-onboarding-backend/raw/main/assets/124886494/d1b892f0-4506-4d4c-bfe8-e64a21ad7df7.gif' alt='게시글 수정' />
       </td>
     </tr>
   </tbody>
@@ -67,16 +63,16 @@
   <thead>
     <tr>
       <th style='text-align: center'>게시글 단일조회</th>
-      <th style='text-align: center'>게시글 목록조</th>
+      <th style='text-align: center'>게시글 목록조회</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <img style='width: 450px;' src='![게시글 단일조회](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/1b540a82-6dcf-4e52-9f92-9b504ad211b1)' alt='curation create' />
+        <img style='width: 450px;' src='https://github.com/WOOK0112/wanted-pre-onboarding-backend/raw/main/assets/124886494/1b540a82-6dcf-4e52-9f92-9b504ad211b1.gif' alt='게시글 단일조회' />
       </td>
       <td>
-        <img style='width: 450px;' src='![게시글 목록조회](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/0ee2aa40-9e82-4d6c-952d-f472c5946687)' alt='curation update/delete' />
+        <img style='width: 450px;' src='https://github.com/WOOK0112/wanted-pre-onboarding-backend/raw/main/assets/124886494/0ee2aa40-9e82-4d6c-952d-f472c5946687.gif' alt='게시글 목록조회' />
       </td>
     </tr>
   </tbody>
@@ -91,7 +87,7 @@
   <tbody>
     <tr>
       <td>
-        <img style='width: 450px;' src='![게시글 삭제](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/716370bb-47cb-4255-b36a-ea1c7d798092)' alt='curation create' />
+        <img style='width: 450px;' src='https://github.com/WOOK0112/wanted-pre-onboarding-backend/raw/main/assets/124886494/716370bb-47cb-4255-b36a-ea1c7d798092.gif' alt='게시글 삭제' />
       </td>
     </tr>
   </tbody>
