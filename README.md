@@ -19,6 +19,12 @@
 
 ------------
 
+
+![게시글 삭제](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/716370bb-47cb-4255-b36a-ea1c7d798092)
+
+
+
+
 ## 💼 API 동작 데모 영상
 <br/>
 <table>
