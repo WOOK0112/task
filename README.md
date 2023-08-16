@@ -18,7 +18,62 @@
 ![image](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/55953134-4710-48fb-871c-156cbd7c95c0)
 ---
 ## 💼 API 동작 데모 영상
-
+<table>
+  <thead>
+    <tr>
+      <th style='text-align: center'>일반 회원가입 / 로그인</th>
+      <th style='text-align: center'>OAuth 회원가입 / 로그인</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img style='width: 350px;' src='https://github.com/codestates-seb/seb44_main_004/assets/62678492/f70e518e-90bf-4c21-ae1e-88bd69b7a4f0' alt='signup/signin' />
+      </td>
+      <td>
+        <img style='width: 480px;' src='https://github.com/codestates-seb/seb44_main_004/assets/62678492/a4a076ea-6ab2-4cf2-a713-4ece2fc8f391' alt='oauth signup/signin' />
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+<table>
+  <thead>
+    <tr>
+      <th style='text-align: center'>큐레이션 발행</th>
+      <th style='text-align: center'>큐레이션 수정 / 삭제</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img style='width: 450px;' src='https://github.com/codestates-seb/seb44_main_004/assets/62678492/22857210-57dd-4ca5-9107-669cd3f75f91' alt='curation create' />
+      </td>
+      <td>
+        <img style='width: 450px;' src='https://github.com/codestates-seb/seb44_main_004/assets/62678492/6fca8e85-09db-450d-ae61-7e610949bb2e' alt='curation update/delete' />
+      </td>
+    </tr>
+  </tbody>
+</table>
+<br/>
+<table>
+  <thead>
+    <tr>
+      <th style='text-align: center'>메인에서 3가지 리스트에 따라 해당 페이지로 이동 <br/> 카테고리 필터</th>
+      <th style='text-align: center'>구독 / 좋아요 / 댓글</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img style='width: 400px;' src='https://github.com/codestates-seb/seb44_main_004/assets/62678492/f124dcaa-ca7c-42c7-96ec-612188043e30' alt='main list' />
+      </td>
+      <td>
+        <img style='width: 400px;' src='https://github.com/codestates-seb/seb44_main_004/assets/62678492/83bb42a8-4361-46c6-b338-523059eec814' alt='like' />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 ## 📖 구현 방법 (구현 방법 및 이유에 대한 간략한 설명)
