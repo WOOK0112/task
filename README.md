@@ -31,7 +31,7 @@
   <tbody>
     <tr>
       <td>
-        <img style='width: 450px;' src='![회원가입](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/dbd4fc3c-aca5-4fa3-a815-c1d93490e195)' alt='curation create' />
+        <img style='width: 450px;' src='![회원가입](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/dbd4fc3c-aca5-4fa3-a815-c1d93490e195)'/>
       </td>
       <td>
         <img style='width: 450px;' src='![로그인](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/24629616-450c-46b6-8a87-6456c6803652)' alt='curation update/delete' />
