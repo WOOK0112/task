@@ -16,22 +16,23 @@
 ---
 ## 🛢 데이터베이스 테이블 구조
 ![image](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/55953134-4710-48fb-871c-156cbd7c95c0)
----
+------------
 ## 💼 API 동작 데모 영상
+<br/>
 <table>
   <thead>
     <tr>
-      <th style='text-align: center'>일반 회원가입 / 로그인</th>
-      <th style='text-align: center'>OAuth 회원가입 / 로그인</th>
+      <th style='text-align: center'>회원가입</th>
+      <th style='text-align: center'>로그인</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <img style='width: 350px;' src='https://github.com/codestates-seb/seb44_main_004/assets/62678492/f70e518e-90bf-4c21-ae1e-88bd69b7a4f0' alt='signup/signin' />
+        <img style='width: 450px;' src='![회원가입](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/dbd4fc3c-aca5-4fa3-a815-c1d93490e195)' alt='curation create' />
       </td>
       <td>
-        <img style='width: 480px;' src='https://github.com/codestates-seb/seb44_main_004/assets/62678492/a4a076ea-6ab2-4cf2-a713-4ece2fc8f391' alt='oauth signup/signin' />
+        <img style='width: 450px;' src='![로그인](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/24629616-450c-46b6-8a87-6456c6803652)' alt='curation update/delete' />
       </td>
     </tr>
   </tbody>
@@ -40,17 +41,17 @@
 <table>
   <thead>
     <tr>
-      <th style='text-align: center'>큐레이션 발행</th>
-      <th style='text-align: center'>큐레이션 수정 / 삭제</th>
+      <th style='text-align: center'>게시글 작성</th>
+      <th style='text-align: center'>게시글 수정</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <img style='width: 450px;' src='https://github.com/codestates-seb/seb44_main_004/assets/62678492/22857210-57dd-4ca5-9107-669cd3f75f91' alt='curation create' />
+        <img style='width: 450px;' src='![게시글 작성](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/a0bce35e-4553-4fdc-a055-49cc947a8c59)' alt='curation create' />
       </td>
       <td>
-        <img style='width: 450px;' src='https://github.com/codestates-seb/seb44_main_004/assets/62678492/6fca8e85-09db-450d-ae61-7e610949bb2e' alt='curation update/delete' />
+        <img style='width: 450px;' src='![게시글 수정](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/d1b892f0-4506-4d4c-bfe8-e64a21ad7df7)' alt='curation update/delete' />
       </td>
     </tr>
   </tbody>
@@ -59,22 +60,36 @@
 <table>
   <thead>
     <tr>
-      <th style='text-align: center'>메인에서 3가지 리스트에 따라 해당 페이지로 이동 <br/> 카테고리 필터</th>
-      <th style='text-align: center'>구독 / 좋아요 / 댓글</th>
+      <th style='text-align: center'>게시글 단일조회</th>
+      <th style='text-align: center'>게시글 목록조</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <img style='width: 400px;' src='https://github.com/codestates-seb/seb44_main_004/assets/62678492/f124dcaa-ca7c-42c7-96ec-612188043e30' alt='main list' />
+        <img style='width: 450px;' src='![게시글 단일조회](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/1b540a82-6dcf-4e52-9f92-9b504ad211b1)' alt='curation create' />
       </td>
       <td>
-        <img style='width: 400px;' src='https://github.com/codestates-seb/seb44_main_004/assets/62678492/83bb42a8-4361-46c6-b338-523059eec814' alt='like' />
+        <img style='width: 450px;' src='![게시글 목록조회](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/0ee2aa40-9e82-4d6c-952d-f472c5946687)' alt='curation update/delete' />
       </td>
     </tr>
   </tbody>
 </table>
-
+<br/>
+<table>
+  <thead>
+    <tr>
+      <th style='text-align: center'>게시글 삭제</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img style='width: 450px;' src='![게시글 삭제](https://github.com/WOOK0112/wanted-pre-onboarding-backend/assets/124886494/716370bb-47cb-4255-b36a-ea1c7d798092)' alt='curation create' />
+      </td>
+    </tr>
+  </tbody>
+</table>
 ---
 ## 📖 구현 방법 (구현 방법 및 이유에 대한 간략한 설명)
 #### 테이블 설계
